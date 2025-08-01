@@ -108,12 +108,12 @@ I thrive on **transforming raw data into strategic insights** that fuel informed
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect with Me
 
-Let's collaborate, share knowledge, or explore opportunities!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhadeep%20Aditya-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/subhadeep-aditya-080970145/)  
+[![Email](https://img.shields.io/badge/Email-subhadeepaditya%40gmail.com-red?logo=gmail&style=flat-square)](mailto:subhadeepaditya@gmail.com)  
+[![Location](https://img.shields.io/badge/Location-Kolkata%20%2F%20Howrah%2C%20India-lightgrey?style=flat-square)](#)
 
-- 📧 Email: [subhadeepaditya@gmail.com](mailto:subhadeepaditya@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/subhadeep-aditya-080970145](https://www.linkedin.com/in/subhadeep-aditya-080970145)
 
 ---
 
