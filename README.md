@@ -28,7 +28,7 @@ I'm a **biotechnology postgraduate, healthcare data analyst, consultant, author 
     </td>
     <td width="25%" valign="top">
       <h3>ii. Analyst</h3>
-      <b>3+ years</b> in healthcare intelligence, medical-device data operations and product information management at <b>GlobalData</b> and <b>GHX</b>.
+      <b>3+ years</b> in healthcare intelligence, medical-device data operations and product information management at <b>GlobalData</b>, <b>Vatrix Healthcare</b> and <b>GHX</b>.
     </td>
     <td width="25%" valign="top">
       <h3>iii. Author</h3>
@@ -103,7 +103,10 @@ I'm a **biotechnology postgraduate, healthcare data analyst, consultant, author 
 ●  11/2024–03/2025  Data Specialist ......................... GHX India, Hyderabad
 │                   Medical-surgical device & supply data, product data operations
 │
-●  03/2022–10/2024  Associate Healthcare Analyst ............ GlobalData PLC, Hyderabad
+●  06/2024–10/2024  Healthcare Analyst ...................... Vatrix Healthcare Data India, Hyderabad
+│                   Market & competitor research (Factiva, ECRI, Sigma) · whitepapers & reports
+│
+●  03/2022–05/2024  Associate Healthcare Analyst ............ GlobalData PLC, Hyderabad
 │                   SKU intelligence · neuromodulation · diagnostic catheters · growth hormones
 │                   ↳ cut turnaround time by 20%
 │
