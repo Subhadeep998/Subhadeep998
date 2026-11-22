@@ -104,6 +104,19 @@ Seven free hubs for students, researchers and professionals. **Star ⭐ the ones
   </tr>
 </table>
 
+### 📡 Live from my radars
+
+<!-- live:start -->
+| Radar | Today's top item |
+|:--|:--|
+| 🏢 [**Company Radar**](https://github.com/Subhadeep998/Global-Company-Radar) | _Updating…_ |
+| ⚖️ [**Law Firm Radar**](https://github.com/Subhadeep998/Law-Firm-Radar) | _Updating…_ |
+| 🔬 [**Science Radar**](https://github.com/Subhadeep998/Science-Research-Radar) | _Updating…_ |
+| 🤖 [**AI Docs Hub**](https://github.com/Subhadeep998/AI-Developer-Docs-Hub) | _Updating…_ |
+
+<sub>⭐ 0 stars across 7 open-knowledge hubs · refreshed automatically 22 Nov 2026 · all free and open</sub>
+<!-- live:end -->
+
 ---
 
 ## ✦ The bookshelf
