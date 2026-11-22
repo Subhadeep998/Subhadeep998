@@ -114,7 +114,7 @@ Seven free hubs for students, researchers and professionals. **Star ⭐ the ones
 | 🔬 [**Science Radar**](https://github.com/Subhadeep998/Science-Research-Radar) | [Calcium catalysed nucleophilic fluorination](https://doi.org/10.1038/s41586-026-11445-z) — _Nature_ |
 | 🤖 [**AI Docs Hub**](https://github.com/Subhadeep998/AI-Developer-Docs-Hub) | [huggingface/transformers **v5.24.0**](https://github.com/huggingface/transformers/releases/tag/v5.24.0) — _released 2026-11-21_ |
 
-<sub>⭐ 0 stars across 7 open-knowledge hubs · refreshed automatically 22 Nov 2026 · all free and open</sub>
+<sub>7 open-knowledge hubs · 4 refresh every morning · updated automatically 22 Nov 2026 · all free and open</sub>
 <!-- live:end -->
 
 ---

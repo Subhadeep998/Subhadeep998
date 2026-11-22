@@ -89,8 +89,8 @@ def main():
         except Exception as exc:
             print(f"[stars] {repo}: {exc}", file=sys.stderr)
     today = dt.date.today().strftime("%d %b %Y")
-    block = ("\n".join(rows) + f"\n\n<sub>⭐ {stars} stars across 7 open-knowledge hubs · "
-             f"refreshed automatically {today} · all free and open</sub>\n")
+    lead = f"⭐ {stars} stars across 7 open-knowledge hubs" if stars >= 10 else "7 open-knowledge hubs · 4 refresh every morning"
+    block = ("\n".join(rows) + f"\n\n<sub>{lead} · updated automatically {today} · all free and open</sub>\n")
 
     s = open(README, encoding="utf-8").read()
     s2 = re.sub(r"<!-- live:start -->.*?<!-- live:end -->", "<!-- live:start -->\n" + block + "<!-- live:end -->", s, flags=re.S)
