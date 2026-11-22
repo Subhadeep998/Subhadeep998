@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Subhadeep998">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=F2463A&center=true&vCenter=true&width=720&lines=Biotechnologist+%E2%86%92+Healthcare+Data+Analyst;Cancer+genomics+%C2%B7+Precision+medicine+%C2%B7+AI;Author+of+3+books+%C2%B7+LL.B.+student;Building+free+knowledge+hubs+for+biology+%26+AI" alt="Typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=F2463A&center=true&vCenter=true&width=720&lines=Biotechnologist+%E2%86%92+Healthcare+Data+Analyst;Cancer+genomics+%C2%B7+Precision+medicine+%C2%B7+AI;Author+of+3+books+%C2%B7+LL.B.+student;7+open-knowledge+hubs+%C2%B7+4+update+daily;Tracking+science%2C+75+companies+%26+30+law+firms" alt="Typing intro">
   </a>
 </p>
 
@@ -52,13 +52,15 @@ I'm a **biotechnology postgraduate, healthcare data analyst, consultant, author 
   </tr>
 </table>
 
-> **Now:** LL.B. student · open to **law-firm internships** · running the **OncoGenome** cancer-genomics research project
+> **Now:** LL.B. student · open to **law-firm internships** · running the **OncoGenome** cancer-genomics research project · maintaining **7 open-knowledge hubs**
 
 ---
 
 ## ✦ Open knowledge — free for everyone
 
-I build free, regularly updated learning hubs for students and professionals. **Star ⭐ the ones you use** — it helps others find them.
+Seven free hubs for students, researchers and professionals. **Star ⭐ the ones you use** — it helps others find them.
+
+### 📖 Learn
 
 <table>
   <tr>
@@ -73,6 +75,31 @@ I build free, regularly updated learning hubs for students and professionals. **
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/Subhadeep998/Open-Biology-Handbook"><img src="assets/hub-biology.svg" width="100%" alt="Open Biology Handbook"></a>
       <br><sub>10 exam-ready chapters with diagrams, revision tables and 50 MCQs — for NEET, CUET, GAT-B, CSIR-NET &amp; GATE.</sub>
+    </td>
+  </tr>
+</table>
+
+### 🛰️ Track — refreshed automatically every morning
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Subhadeep998/Science-Research-Radar"><img src="assets/hub-science.svg" width="100%" alt="Science Research Radar"></a>
+      <br><sub>Research only: Nature, Science, Cell, NEJM, Lancet &amp; more + newest preprints across 17 fields · <a href="https://github.com/Subhadeep998/Science-Research-Radar/blob/main/LATEST.md">today's digest →</a></sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Subhadeep998/Global-Company-Radar"><img src="assets/hub-company.svg" width="100%" alt="Global Company Radar"></a>
+      <br><sub>Tesla, SpaceX/xAI, NVIDIA, Anthropic, Google, Pfizer, AstraZeneca, TCS, Biocon &amp; 66 more — free tools, strategy, news · <a href="https://github.com/Subhadeep998/Global-Company-Radar/blob/main/NEWS.md">today's digest →</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Subhadeep998/Law-Firm-Radar"><img src="assets/hub-law.svg" width="100%" alt="Law Firm Radar"></a>
+      <br><sub>Kirkland, Linklaters, Cyril Amarchand &amp; 27 more — deals, insights, internships + a free legal research toolkit · <a href="https://github.com/Subhadeep998/Law-Firm-Radar/blob/main/NEWS.md">today's digest →</a></sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Subhadeep998/AI-Developer-Docs-Hub"><img src="assets/hub-aidocs.svg" width="100%" alt="AI Developer Docs Hub"></a>
+      <br><sub>Deep guides for <a href="https://github.com/Subhadeep998/AI-Developer-Docs-Hub/tree/main/anthropic">Anthropic</a> &amp; <a href="https://github.com/Subhadeep998/AI-Developer-Docs-Hub/tree/main/meta">Meta</a>, maps for 12 more providers + a daily SDK release tracker.</sub>
     </td>
   </tr>
 </table>
