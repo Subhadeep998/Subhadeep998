@@ -196,7 +196,7 @@ Seven free hubs for students, researchers and professionals. **Star ⭐ the ones
     <td width="50%" valign="top">
       <h3>NextLeap Advisory</h3>
       <sub>FOUNDER · EDUCATIONAL CONSULTING</sub><br><br>
-      An educational consulting platform guiding learners and professionals toward their next leap. Home of the <b>OncoGenome</b> research project and the <a href="https://github.com/Subhadeep998/NextLeap-Advisory---Biology-leaning-app">biology learning app</a>.
+      An educational consulting platform guiding learners and professionals toward their next leap. Home of the <b>OncoGenome</b> research project and the free <a href="https://github.com/Subhadeep998/Open-Biology-Handbook">Open Biology Handbook</a>.
     </td>
     <td width="50%" valign="top">
       <h3>ChobiGhor Studios</h3>
