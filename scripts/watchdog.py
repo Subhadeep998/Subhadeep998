@@ -36,6 +36,8 @@ def main():
             problems.append(f"- **{repo}**: could not read workflows ({exc})")
             continue
         for wf in workflows:
+            if wf.get("path", "").startswith("dynamic/"):
+                continue  # GitHub-managed jobs (Dependabot, Pages builds) are not our automations
             if wf.get("state") != "active":
                 if wf.get("state", "").startswith("disabled"):
                     problems.append(f"- **{repo} → {wf['name']}** is **disabled** ({wf['state']}). "
