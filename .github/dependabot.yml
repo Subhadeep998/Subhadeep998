@@ -4,6 +4,10 @@ updates:
     directory: /
     schedule:
       interval: monthly
+    # Only safe minor/patch updates; major versions are reviewed by hand.
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major"]
     groups:
       actions:
         patterns: ["*"]
