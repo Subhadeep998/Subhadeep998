@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="210" viewBox="0 0 400 210" role="img" aria-label="Awesome AI Learning">
+<rect x="1" y="1" width="398" height="208" rx="18" fill="#0D0F12" stroke="rgba(243,239,230,0.18)" stroke-width="2"/>
+<rect x="1" y="1" width="8" height="208" rx="4" fill="#F2463A"/>
+<g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<text x="28" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2.5" fill="#F2463A">OPEN KNOWLEDGE · 02</text>
+<text x="28" y="84" font-size="27" font-weight="700" letter-spacing="-0.6" fill="#F3EFE6">Awesome AI Learning</text>
+<text x="28" y="118" font-size="15" fill="#C9CDD4"><tspan x="28" dy="0">Roadmaps, courses, tools and a weekly</tspan><tspan x="28" dy="22">auto-updated feed of the newest AI research.</tspan></text>
+<text x="28" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#A3A9B4">START LEARNING <tspan fill="#F2463A">→</tspan></text>
+</g>
+<circle cx="360" cy="44" r="6" fill="#F2463A"><animate attributeName="r" values="6;9;6" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.5;1" dur="2.4s" repeatCount="indefinite"/></circle>
+</svg>

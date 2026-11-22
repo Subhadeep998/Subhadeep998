@@ -3,11 +3,22 @@
 </a>
 
 <p align="center">
+  <a href="https://github.com/Subhadeep998">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=F2463A&center=true&vCenter=true&width=720&lines=Biotechnologist+%E2%86%92+Healthcare+Data+Analyst;Cancer+genomics+%C2%B7+Precision+medicine+%C2%B7+AI;Author+of+3+books+%C2%B7+LL.B.+student;Building+free+knowledge+hubs+for+biology+%26+AI" alt="Typing intro">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://subhadeep998.github.io"><img src="https://img.shields.io/badge/Website-subhadeep998.github.io-F2463A?style=for-the-badge&labelColor=0D0F12" alt="Website"></a>
   <a href="https://www.linkedin.com/in/subhadeep-aditya-080970145/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0F12" alt="LinkedIn"></a>
   <a href="https://www.researchgate.net/profile/Subhadeep-Aditya"><img src="https://img.shields.io/badge/ResearchGate-Papers-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=0D0F12" alt="ResearchGate"></a>
   <a href="#-the-bookshelf"><img src="https://img.shields.io/badge/Author-3%20Books-E6B85C?style=for-the-badge&logo=amazon&logoColor=white&labelColor=0D0F12" alt="Books"></a>
   <a href="mailto:info@subhadeepaditya.in"><img src="https://img.shields.io/badge/Email-info%40subhadeepaditya.in-F3EFE6?style=for-the-badge&labelColor=0D0F12" alt="Email"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Subhadeep998?tab=followers"><img src="https://img.shields.io/github/followers/Subhadeep998?label=Follow&style=social" alt="Follow on GitHub"></a>
+  <img src="https://komarev.com/ghpvc/?username=Subhadeep998&label=Profile%20views&color=F2463A&style=flat-square" alt="Profile views">
 </p>
 
 <p align="center">
@@ -42,6 +53,29 @@ I'm a **biotechnology postgraduate, healthcare data analyst, consultant, author 
 </table>
 
 > **Now:** LL.B. student · open to **law-firm internships** · running the **OncoGenome** cancer-genomics research project
+
+---
+
+## ✦ Open knowledge — free for everyone
+
+I build free, regularly updated learning hubs for students and professionals. **Star ⭐ the ones you use** — it helps others find them.
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/Subhadeep998/Awesome-Biotechnology"><img src="assets/hub-biotech.svg" width="100%" alt="Awesome Biotechnology"></a>
+      <br><sub>180+ hand-picked courses, databases, tools, journals &amp; careers — plus a weekly bioRxiv feed.</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/Subhadeep998/Awesome-AI-Learning"><img src="assets/hub-ai.svg" width="100%" alt="Awesome AI Learning"></a>
+      <br><sub>Zero-to-agents roadmap, free certificates, live model trackers — plus a weekly arXiv &amp; GitHub feed.</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/Subhadeep998/Open-Biology-Handbook"><img src="assets/hub-biology.svg" width="100%" alt="Open Biology Handbook"></a>
+      <br><sub>10 exam-ready chapters with diagrams, revision tables and 50 MCQs — for NEET, CUET, GAT-B, CSIR-NET &amp; GATE.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -167,6 +201,26 @@ I'm a **biotechnology postgraduate, healthcare data analyst, consultant, author 
 
 ---
 
+## ✦ GitHub at a glance
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Subhadeep998&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0F12&title_color=F2463A&text_color=F3EFE6&icon_color=E6B85C&ring_color=F2463A" alt="GitHub stats">
+  <img height="165" src="https://streak-stats.demolab.com?user=Subhadeep998&hide_border=true&background=0D0F12&ring=F2463A&fire=F2463A&currStreakLabel=F3EFE6&sideLabels=F3EFE6&currStreakNum=F3EFE6&sideNums=F3EFE6&dates=A3A9B4&stroke=2A2E35" alt="Contribution streak">
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Subhadeep998&hide_border=true&bg_color=0D0F12&color=F3EFE6&line=F2463A&point=E6B85C&area=true&area_color=F2463A&title_color=F3EFE6" alt="Contribution activity graph">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhadeep998/Subhadeep998/output/snake-dark.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/Subhadeep998/Subhadeep998/output/snake-light.svg" alt="Contribution snake">
+  </picture>
+</p>
+
+---
+
 ## ✦ Credentials
 
 **Honours &amp; memberships**
@@ -232,6 +286,11 @@ I'm a **biotechnology postgraduate, healthcare data analyst, consultant, author 
 ---
 
 ## ✦ Let's build something worth regulating
+
+<p align="center">
+  <b>Healthcare · genomics · AI · law — if that intersection interests you, let's stay connected.</b><br>
+  <a href="https://github.com/Subhadeep998?tab=followers"><img src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-%40Subhadeep998-F2463A?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0F12" alt="Follow @Subhadeep998"></a>
+</p>
 
 | General | Research | Say hello | Legal |
 |:--|:--|:--|:--|
