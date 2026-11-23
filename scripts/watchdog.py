@@ -5,6 +5,7 @@ If any workflow's latest finished run failed, open (or update) one issue in
 this repo titled 'Automation alert' — GitHub emails the owner. When all are
 healthy again, the issue is closed automatically.
 """
+import datetime as dt
 import json
 import os
 import sys
@@ -48,6 +49,12 @@ def main():
                 continue
             checked += 1
             run = runs[0]
+            if wf.get("path", "").endswith(("daily.yml", "profile-live.yml")):
+                ok = api(f"repos/{OWNER}/{repo}/actions/workflows/{wf['id']}/runs?status=success&per_page=1").get("workflow_runs", [])
+                last = dt.datetime.fromisoformat(ok[0]["created_at"].replace("Z", "+00:00")) if ok else None
+                if not last or dt.datetime.now(dt.timezone.utc) - last > dt.timedelta(hours=30):
+                    problems.append(f"- **{repo} → {wf['name']}** has not updated successfully for over 30 hours "
+                                    f"(GitHub may have skipped its schedule). [Run it now](https://github.com/{OWNER}/{repo}/actions/workflows/{wf['path'].split('/')[-1]})")
             if run.get("conclusion") == "failure":
                 problems.append(f"- **{repo} → {wf['name']}** failed on {run['created_at'][:10]} — "
                                 f"[see the log]({run['html_url']})")

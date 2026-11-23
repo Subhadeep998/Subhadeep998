@@ -2,7 +2,7 @@ name: Automation watchdog
 
 on:
   schedule:
-    - cron: "47 3 * * *"   # 09:17 IST daily
+    - cron: "47 6 * * *"   # 12:17 IST daily, after the backup runs
   workflow_dispatch:
 
 permissions:

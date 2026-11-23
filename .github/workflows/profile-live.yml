@@ -2,8 +2,14 @@ name: Profile live section
 
 on:
   schedule:
-    - cron: "13 1 * * *"   # 06:43 IST, after the radars refresh
+    # Two runs a day, away from GitHub's busy midnight-UTC hour: if one is delayed
+    # or dropped, the other catches up. Re-running is harmless.
+    - cron: "13 2 * * *"    # 07:43 IST
+    - cron: "43 5 * * *"    # 11:13 IST backup
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-live.yml"]   # run once whenever this schedule file changes
 
 permissions:
   contents: write
