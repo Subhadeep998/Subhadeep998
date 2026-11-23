@@ -14,7 +14,7 @@ import urllib.request
 OWNER = "Subhadeep998"
 HOME = f"{OWNER}/{OWNER}"
 REPOS = ["Subhadeep998", "Global-Company-Radar", "Law-Firm-Radar", "Science-Research-Radar",
-         "AI-Developer-Docs-Hub", "Awesome-Biotechnology", "Awesome-AI-Learning", "Open-Biology-Handbook"]
+         "AI-Developer-Docs-Hub", "India-Development-Dashboard", "Awesome-Biotechnology", "Awesome-AI-Learning", "Open-Biology-Handbook"]
 TITLE = "⚠️ Automation alert"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 

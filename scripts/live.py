@@ -13,7 +13,7 @@ import urllib.request
 
 OWNER = "Subhadeep998"
 HUBS = ["Global-Company-Radar", "Law-Firm-Radar", "Science-Research-Radar", "AI-Developer-Docs-Hub",
-        "Awesome-Biotechnology", "Awesome-AI-Learning", "Open-Biology-Handbook"]
+        "Awesome-Biotechnology", "Awesome-AI-Learning", "Open-Biology-Handbook", "India-Development-Dashboard"]
 README = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "README.md")
 
 
@@ -66,12 +66,22 @@ def newest_release():
     return f"[{repo} **{esc(r['tag'], 40)}**]({r['url']}) — _released {d}_"
 
 
+def newest_india():
+    d = get_json(f"https://raw.githubusercontent.com/{OWNER}/India-Development-Dashboard/main/docs/data/dashboard.json")
+    items = [n for t in d.get("tabs", []) for n in t.get("pib", [])[:1]]
+    if not items:
+        return None
+    n = max(items, key=lambda x: x.get("date", ""))
+    return f"[{esc(n['title'])}]({n['link']}) — _PIB_"
+
+
 def main():
     items = [
         ("🏢", "Company Radar", "Global-Company-Radar", lambda: newest_news("Global-Company-Radar", "company")),
         ("⚖️", "Law Firm Radar", "Law-Firm-Radar", lambda: newest_news("Law-Firm-Radar", "firm")),
         ("🔬", "Science Radar", "Science-Research-Radar", newest_paper),
         ("🤖", "AI Docs Hub", "AI-Developer-Docs-Hub", newest_release),
+        ("🇮🇳", "India Dashboard", "India-Development-Dashboard", newest_india),
     ]
     rows = ["| Radar | Today's top item |", "|:--|:--|"]
     for emoji, label, repo, fn in items:
@@ -89,7 +99,7 @@ def main():
         except Exception as exc:
             print(f"[stars] {repo}: {exc}", file=sys.stderr)
     today = dt.date.today().strftime("%d %b %Y")
-    lead = f"⭐ {stars} stars across 7 open-knowledge hubs" if stars >= 10 else "7 open-knowledge hubs · 4 refresh every morning"
+    lead = f"⭐ {stars} stars across 8 open-knowledge hubs" if stars >= 10 else "8 open-knowledge hubs · 5 refresh daily"
     block = ("\n".join(rows) + f"\n\n<sub>{lead} · updated automatically {today} · all free and open</sub>\n")
 
     s = open(README, encoding="utf-8").read()
